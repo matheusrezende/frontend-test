@@ -1,0 +1,14 @@
+.activityDetailWrapper {
+  padding: 10px;
+}
+.activityDetailHeader {
+  display: flex;
+  align-items: center;
+}
+.activityDetailHeader span {
+  text-align: center;
+  font-weight: bold;
+  font-size: 20px;
+  margin-left: 10px;
+}
+

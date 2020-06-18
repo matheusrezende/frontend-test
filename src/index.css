@@ -1,3 +1,14 @@
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
 html, body, h1, h2, h3, ul, li {
   margin: 0;
   padding: 0;
@@ -12,4 +23,8 @@ body {
   font-size: 13px;
   color: #333333;
   line-height: 1;
+}
+
+ul {
+  list-style-type: none;
 }

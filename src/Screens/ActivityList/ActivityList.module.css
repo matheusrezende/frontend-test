@@ -1,0 +1,17 @@
+.tabList {
+  display: flex;
+  height: 50;
+}
+
+.tabItem {
+  background-color: #ffffff;
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+  width: 100%;
+  padding: 10px;
+}
+
+.tabItemSelected {
+  border-bottom: 2px solid lightgreen
+}

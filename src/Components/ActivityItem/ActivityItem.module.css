@@ -1,0 +1,23 @@
+.listItem {
+  border: 1px solid lightgray;
+  margin: 10px 10px;
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+}
+
+.listItem:hover {
+  background-color: rgba(0, 0, 0, 0.1)
+}
+
+.callDetails {
+  margin-left: 20px
+}
+
+.callDetailsWrapper {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
